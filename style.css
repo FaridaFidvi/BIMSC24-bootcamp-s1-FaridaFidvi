@@ -1,0 +1,19 @@
+div{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+}
+#navbar { 
+   color: aquamarine; 
+font-size: 20px;
+}
+#sidbar {
+
+    color: rgb(174, 127, 255); 
+    font-size: 15px;
+}
+#mainbar {
+
+    color: rgb(237, 248, 153); 
+    font-size:10 px;
+}
